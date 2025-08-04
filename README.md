@@ -64,7 +64,7 @@ python protonation_analyzer.py input_trajectory.xyz output_colored.xyz
 ### Example
 
 ```bash
-python protonation_analyzer.py water_simulation_in.xyz water_simulation_out.xyz
+python protonation_analyzer.py examples/sample_input.xyz examples/sample_output.xyz
 ```
 
 This will:
