@@ -25,13 +25,11 @@ This tool processes XYZ trajectory files issued from molecular dynamics simulati
 
 ## Color Scheme
 
-| Species | Description | RGB Color | Visual |
+| Species | Description | Oxygen RGB Color | Visual |
 |---------|-------------|-----------|---------|
 | OH<sup>-</sup> | Hydroxide ion (1 hydrogen) | Blue (0.0, 0.0, 1.0) | 🔵 |
 | H<sub>2</sub>O | Water molecule (2 hydrogens) | Red (1.0, 0.0, 0.0) | 🔴 |
 | H<sub>3</sub>O<sup>+</sup> | Hydronium ion (3 hydrogens) | Orange (1.0, 0.5, 0.0) | 🟠 |
-| H | Hydrogen atoms | White (1.0, 1.0, 1.0) | ⚪ |
-| Xe | Xenon atoms | Grey (0.5, 0.5, 0.5) | ⚫ |
 
 ## Installation
 
