@@ -163,8 +163,6 @@ xyz-proton-tracker/
 ├── examples/                 # Example input/output files
 │   ├── sample_input.xyz
 │   └── sample_output.xyz
-└── tests/                    # Test cases
-    └── test_analyzer.py
 ```
 
 ## Contributing
